@@ -1,5 +1,7 @@
 ## BSTestRunner is bootstrap3 version of HTMLTestRunner
 
+**Now support both python2 and python3**
+
 ![report](report.png)
 
 ## How to use
